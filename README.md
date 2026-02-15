@@ -1,8 +1,10 @@
-# QR Generator
+<img width="1448" height="906" alt="image" src="https://github.com/user-attachments/assets/a469fadd-6181-4dc1-bd26-d7b348a20cc8" /># QR Generator
 
 A premium, engineering-focused QR code generator designed with a strict minimalist aesthetic. Built for speed, precision, and elegance.
 
-![QR Generator Preview](https://github.com/Sparkyyy45/QR-Code-Generator/assets/placeholder.png)
+<img width="1448" height="906" alt="image" src="https://github.com/user-attachments/assets/c16f5a06-5d54-477f-88c5-73925168ca8e" />
+
+
 
 ## ✨ Features
 
